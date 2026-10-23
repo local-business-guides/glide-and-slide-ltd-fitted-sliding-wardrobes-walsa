@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/sitemap.xml
