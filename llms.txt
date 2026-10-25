@@ -28,6 +28,9 @@
 - [Choosing a top rated alcove wardrobe in walsall](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/top-rated-alcove-wardrobe-in-walsall/): Looking for a top rated alcove wardrobe in walsall? Learn how to assess fit, door access and practical bedroom storage in Walsall.
 - [Planning an affordable alcove wardrobe Walsall project](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/affordable-alcove-wardrobe-walsall/): Plan an affordable alcove wardrobe Walsall project with a clear brief, sensible storage choices and an itemized quote for your Walsall home.
 
+## Newsroom
+- [Glide & Slide Ltd Publishes Alcove Wardrobe Guide](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/news/2026-10-25-glide-slide-ltd-publishes-alcove-wardrobe-guide/): Glide & Slide Ltd has published an alcove wardrobe guide, with related video and audio content for homeowners considering fitted bedroom storage. (2026-10-25)
+
 ## Pages
 - [Alcove Wardrobe in Walsall](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/): Make better use of your bedroom recess with made-to-measure wardrobe storage designed around your space in Walsall. Call +441543679202.
 - [About Glide and Slide and Contact Details](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/about/): About Glide and Slide ltd - Fitted Sliding Wardrobes, Walsall.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/glide-and-slide-ltd-fitted-sliding-wardrobes-walsa/news/rss.xml)
 - [Main resource site](https://glide-slide-alcove-walsall.localwebsites.chatgpt.site)
